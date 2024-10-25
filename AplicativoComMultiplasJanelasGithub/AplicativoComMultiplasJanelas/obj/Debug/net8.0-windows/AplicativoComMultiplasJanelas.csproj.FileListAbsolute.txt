@@ -1,0 +1,36 @@
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.exe
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.deps.json
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.runtimeconfig.json
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.dll
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.pdb
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.Form1.resources
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.FormNovoProduto.resources
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.AssemblyInfo.cs
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.dll
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\refint\AplicativoComMultiplasJanelas.dll
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.pdb
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.genruntimeconfig.cache
+C:\Users\givanio.melo\Documents\AplicativoComMultiplasJanelas\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\ref\AplicativoComMultiplasJanelas.dll
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.exe
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.deps.json
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.dll
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\bin\Debug\net8.0-windows\AplicativoComMultiplasJanelas.pdb
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.FormNovoCliente.resources
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.FormNovoFornecedor.resources
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.FormNovoProduto.resources
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.dll
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\refint\AplicativoComMultiplasJanelas.dll
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.pdb
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\AplicativoComMultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Downloads\Aplicativo Com Multiplas Janelas (1)\AplicativoComMultiplasJanelas\obj\Debug\net8.0-windows\ref\AplicativoComMultiplasJanelas.dll
